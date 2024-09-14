@@ -1,2 +1,3 @@
 # single-page-cv
-This repository has the roadmap.sh project of single page cv
+
+This is my one page curriculum vitae (CV) created using semantic HTML

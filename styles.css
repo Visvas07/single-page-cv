@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Calibri','Arial';
+}
+hr{
+    margin:2em;
+}
+
+.main-section{
+    margin: 20px;
+}
+
+.sub-title{
+    font-size: 20px;
+    color: #17f50c;
+}
+.name{
+    color: #3131c7;
+}
+
+.skill-list{
+    list-style: circle;
+    
+}
+.social{
+   text-decoration: none;
+    color:#523453;
+}
+.social:visited{
+    text-decoration: none;
+    color:#523453;
+}
